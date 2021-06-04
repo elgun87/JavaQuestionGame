@@ -22,6 +22,10 @@ body {
   top: 20%;
 }
 
+label{
+  font-size: 35px;
+}
+
 button {
   display: block;
   width: 400px;
