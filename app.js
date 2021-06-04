@@ -37,7 +37,7 @@ var game = {
           }, 
           {
             question: "What is the difference between this strings: String str1 = null and String str2 = ' ' ",
-            answers: ["No difference", "str2 has no value", "str1 does not memory in the heap", "str2 does not have memory in the heap"],
+            answers: ["No difference", "str2 has no value", "str1 does not have memory in the heap", "str2 does not have memory in the heap"],
             correctAnswer: "str1 does not memory in the heap"
           }, 
           {
