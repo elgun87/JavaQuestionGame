@@ -146,7 +146,7 @@ function showResult(){
 ////////////////////////////////////////////////////////////
 /////////////// this is function is for display the seconds////////
 
-var second = 120;
+var second = 300;
 
 function myTimer(){
     second --;
